@@ -42,3 +42,15 @@ A mobile app that connects blood donors with people/hospitals in need, helping u
 ```
 
 ## Project Structure
+```
+blood-donor-app/
+├── app/                # App screens and routing (Expo Router)
+├── assets/             # Images, icons, fonts
+├── Components/         # Reusable UI components
+├── constants/          # App-wide constants (colors, config, etc.)
+├── screens/            # Screen-level components
+├── app.json            # Expo app configuration
+├── tsconfig.json        # TypeScript configuration
+├── package.json         # Dependencies and scripts
+└── README.md            # Project documentation
+```
