@@ -2,9 +2,6 @@
 
 A mobile app that connects blood donors with people/hospitals in need, helping users find nearby donors quickly during emergencies.
 
-![Welcome Screen](1.png)
-![Login Screen](2.png)
-![Donor Home Screen](3.png)
 
 ## Features
 
@@ -24,8 +21,11 @@ A mobile app that connects blood donors with people/hospitals in need, helping u
 - **Backend:** [e.g. Firebase / Node.js / your API]
 
 ## Screenshots
+![Welcome Screen](1.png)
+![Login Screen](2.png)
+![Donor Home Screen](3.png)
 
-*(Add a few screenshots here — makes a huge difference for recruiters/users)*
+
 
 ## Installation
 
