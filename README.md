@@ -2,6 +2,10 @@
 
 A mobile app that connects blood donors with people/hospitals in need, helping users find nearby donors quickly during emergencies.
 
+![Welcome Screen](1.png)
+![Login Screen](2.png)
+![Donor Home Screen](3.png)
+
 ## Features
 
 - 🔍 Search for blood donors by blood group and location
